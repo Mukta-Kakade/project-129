@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+.span1{
+    font-size: 17px;
+    color: black;
+}
+
+canvas{
+    border: 5px solid rgb(116, 22, 247);
+    border-radius: 20px;
+}
